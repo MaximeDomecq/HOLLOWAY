@@ -94,10 +94,10 @@
 55	mont-blanc	B	20	30
 56	mont-blanc	TS	30	20
 57	muguet	N	17	8
-58	navette1600-1800	BUS	30	36
-59	navette1800-1600	BUS	36	30
-60	navette1600-2000	BUS	30	7
-61	navette2000-1600	BUS	7	30
+58	navette1600-1800	BUS	30	36  30
+59	navette1800-1600	BUS	36	30  
+60	navette1600-2000	BUS	30	7  40
+61	navette2000-1600	BUS	7	30  40
 62	ours	N	15	10
 63	plagnettes	TSD	11	26
 64	plan	B	23	11
